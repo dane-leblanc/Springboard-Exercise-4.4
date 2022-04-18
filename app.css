@@ -1,0 +1,13 @@
+.completed {
+  color: gray;
+  font-style: bold;
+  text-decoration: line-through;
+}
+
+#list {
+  width: 25vw;
+}
+
+li {
+  cursor: pointer;
+}
